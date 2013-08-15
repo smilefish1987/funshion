@@ -28,11 +28,11 @@ This is an H1
 This is an H2
 -------------
 
-# This is another H1
+# This is another H1 #
 
 ## This is another H2
 
-### This is h3
+### This is h3 ###
 
 #### This is h4
 
