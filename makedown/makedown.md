@@ -213,5 +213,17 @@ Please don't use any `<blink>` tags.
 
 
 
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+
+
+![Alt text][5]
+
+[5]: url/to/image  "Optional title attribute"
+
+
+
 
 [参考文档](http://www.ituring.com.cn/article/504 "makedown 参考文档") 
