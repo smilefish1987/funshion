@@ -1,4 +1,7 @@
-funshion
-========
+heqq@funshion
+=============
 
-the life times in funshion
+在风行时光和日子们，做点有意义的事情，写写东西，记录一下 
+
+
+###### 认真的男人最美丽 ######
