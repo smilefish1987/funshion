@@ -159,3 +159,13 @@ Here is an example of AppleScript:
 
 
 
+
+*  *  *
+hehehe
+***
+
+*****
+
+-  -  -
+
+------------------------------------
