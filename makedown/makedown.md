@@ -213,15 +213,15 @@ Please don't use any `<blink>` tags.
 
 
 
-![Alt text](/path/to/img.jpg)
+![Alt text](http://www.turingbook.com/Content/img/Turing.Gif)
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](http://www.turingbook.com/Content/img/Turing.Gif "Optional title")
 
 
 
 ![Alt text][5]
 
-[5]: url/to/image  "Optional title attribute"
+[5]: http://www.turingbook.com/Content/img/Turing.Gif  "Optional title attribute"
 
 
 
