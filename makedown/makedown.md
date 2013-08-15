@@ -226,4 +226,16 @@ Please don't use any `<blink>` tags.
 
 
 
+<http://example.com/>
+
+
+<address@example.com>
+
+
+
+
+\*literal asterisks\*
+
+
+
 [参考文档](http://www.ituring.com.cn/article/504 "makedown 参考文档") 
