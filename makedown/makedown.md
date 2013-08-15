@@ -200,4 +200,18 @@ __double underscores__
 
 
 
+se the `printf()` function.
+
+``There is a literal backtick (`) here.``
+
+A single backtick in a code span: `` ` ``
+
+A backtick-delimited string in a code span: `` `foo` ``
+
+
+Please don't use any `<blink>` tags.
+
+
+
+
 [参考文档](http://www.ituring.com.cn/article/504 "makedown 参考文档") 
