@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="uft-8">
+		<title>Images List</title>
+	</head>
+	<body>
+		<ol>
+			{{range $.images}}
+			<li><a href="/view?id={{.|urlquery}}">{{.|html}}</a></li>
+			{{end}}
+		</ol>
+	</body>
+</html>
