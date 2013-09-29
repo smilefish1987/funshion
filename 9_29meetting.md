@@ -35,10 +35,10 @@ h2. 本迭代story概括
 			<th>备注</th>
 		</tr>
 		<tr>
-			<td>1</td><td>twsee-213 UGC视频增加平台选择及地域策略</td><td>8</td></td>0</td><td>何锵锵、程品</td><td>testing</td><td>0</td>
+			<td>1</td><td>twsee-213 UGC视频增加平台选择及地域策略</td><td>8</td></td>0</td><td>何锵锵、程品</td><td>testing</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>2</td><td>twsee-223 UGC视频题材列表页</td><td>2</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td>
+			<td>2</td><td>twsee-223 UGC视频题材列表页</td><td>2</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
 			<td>3</td><td>twsee-217 UGC/体育地域策略显示方式</td><td>3</td><td>0</td><td>刘水旺、阮圆</td><td>block</td><td>0</td>
