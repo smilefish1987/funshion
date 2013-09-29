@@ -41,37 +41,37 @@ h2. 本迭代story概括
 			<td>2</td><td>twsee-223 UGC视频题材列表页</td><td>2</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>3</td><td>twsee-217 UGC/体育地域策略显示方式</td><td>3</td><td>0</td><td>刘水旺、阮圆</td><td>block</td><td>0</td>
+			<td>3</td><td>twsee-217 UGC/体育地域策略显示方式</td><td>3</td><td>0</td><td>刘水旺、阮圆</td><td>block</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>4</td><td>twsee-219 玩转风行移动版相关修正</td><td>3</td><td>0</td><td>刘水旺、程品</td><td>done</td><td>0</td>
+			<td>4</td><td>twsee-219 玩转风行移动版相关修正</td><td>3</td><td>0</td><td>刘水旺、程品</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>5</td><td>twsee-218 去别人主页@用户发布的动态信息，需要展现在bms动态管理中</td><td>2</td><td>0</td><td>阮圆、朱文君</td><td>done</td><td>1</td>
+			<td>5</td><td>twsee-218 去别人主页@用户发布的动态信息，需要展现在bms动态管理中</td><td>2</td><td>0</td><td>阮圆、朱文君</td><td>done</td><td>1</td><td></td>
 		</tr>
 		<tr>
-			<td>6</td><td>twsee-220 将社区头图更换进入bms管理</td><td>5</td><td>0</td><td>程品、郑晓春</td><td>done</td><td>1</td>
+			<td>6</td><td>twsee-220 将社区头图更换进入bms管理</td><td>5</td><td>0</td><td>程品、郑晓春</td><td>done</td><td>1</td><td></td>
 		</tr>
 		<tr>
-			<td>7</td><td>twsee-221 更换头像/头图时保留用户当前图片</td><td>5</td><td>0</td><td>朱文君、阮圆</td><td>done</td><td>0</td>
+			<td>7</td><td>twsee-221 更换头像/头图时保留用户当前图片</td><td>5</td><td>0</td><td>朱文君、阮圆</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>8</td><td>twsee-227 网站订阅应用接入-用户订阅媒体</td><td>3</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td>
+			<td>8</td><td>twsee-227 网站订阅应用接入-用户订阅媒体</td><td>3</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>9</td><td>twsee-226 网站订阅应用接入-取消订阅</td><td>3</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td>
+			<td>9</td><td>twsee-226 网站订阅应用接入-取消订阅</td><td>3</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>10</td><td>twsee-225 网站订阅应用接入-获取用户订阅列表</td><td>4</td><td>0</td><td>何锵锵、阮圆</td><td>done</td><td>0</td>
+			<td>10</td><td>twsee-225 网站订阅应用接入-获取用户订阅列表</td><td>4</td><td>0</td><td>何锵锵、阮圆</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>11</td><td>twsee-224 网站订阅应用接入-用户是否订阅、用户订阅数</td><td>3</td><td>0</td><td>何锵锵、阮圆</td><td>done</td><td>0</td>
+			<td>11</td><td>twsee-224 网站订阅应用接入-用户是否订阅、用户订阅数</td><td>3</td><td>0</td><td>何锵锵、阮圆</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>12</td><td>twsee-228 点评相关api性能优化调研</td><td>3</td><td>0</td><td>朱文君</td><td>done</td><td>0</td>
+			<td>12</td><td>twsee-228 点评相关api性能优化调研</td><td>3</td><td>0</td><td>朱文君</td><td>done</td><td>0</td><td></td>
 		</tr>
 		<tr>
-			<td>总数</td><td>story：12</td><td>点数：44</td><td></td><td></td><td>未完成story：2</td><td>bug总数：2</td>
+			<td>总数</td><td>story：12</td><td>点数：44</td><td></td><td></td><td>未完成story：2</td><td>bug总数：2</td><td></td>
 		</tr>
 	</tbody>
 </table>
