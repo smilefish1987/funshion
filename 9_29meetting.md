@@ -17,7 +17,7 @@ h2. 上个迭代问题回顾
 
 h2. 本迭代燃尽图
 
-![](./borndown.png?raw=true)
+![](images/borndown.png?raw=true)
 
 
 h2. 本迭代story概括
