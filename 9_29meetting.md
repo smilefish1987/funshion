@@ -22,21 +22,59 @@ h2. 本迭代燃尽图
 
 h2. 本迭代story概括
 
-|编号|story|预计点数|实际点数|开发人员|进度|bug|备注|
-|1|twsee-213 UGC视频增加平台选择及地域策略|8|0|何锵锵、程品|testing|0||
-|2|twsee-223 UGC视频题材列表页|2|0|何锵锵、程品|done|0||
-|3|twsee-217 UGC/体育地域策略显示方式|3|0|刘水旺、阮圆|block|0||
-|4|twsee-219 玩转风行移动版相关修正|3|0|刘水旺、程品|done|0||
-|5|twsee-218 去别人主页@用户发布的动态信息，需要展现在bms动态管理中|2|0|阮圆、朱文君|done|1||
-|6|twsee-220 将社区头图更换进入bms管理|5|0|程品、郑晓春|done|1||
-|7|twsee-221 更换头像/头图时保留用户当前图片|5|0|朱文君、阮圆|done|0||
-|8|twsee-227 网站订阅应用接入-用户订阅媒体|3|0|何锵锵、程品|done|0||
-|9|twsee-226 网站订阅应用接入-取消订阅|3|0|何锵锵、程品|done|0||
-|10|twsee-225 网站订阅应用接入-获取用户订阅列表|4|0|何锵锵、阮圆|done|0||
-|11|twsee-224 网站订阅应用接入-用户是否订阅、用户订阅数|3|0|何锵锵、阮圆|done|0||
-|12|twsee-228 点评相关api性能优化调研|3|0|朱文君|done|0||
-|总数|story：12|点数：44|||未完成story：2|bug总数：2||
-
+<table class="table table-condensed table-bordered">
+	<tbody>
+		<tr>
+			<th>编号</th>
+			<th>story</th>
+			<th>预计点数</th>
+			<th>实际点数</th>
+			<th>开发人员</th>
+			<th>进度</th>
+			<th>bug</th>
+			<th>备注</th>
+		</tr>
+		<tr>
+			<td>1</td><td>twsee-213 UGC视频增加平台选择及地域策略</td><td>8</td></td>0</td><td>何锵锵、程品</td><td>testing</td><td>0</td>
+		</tr>
+		<tr>
+			<td>2</td><td>twsee-223 UGC视频题材列表页</td><td>2</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>3</td><td>twsee-217 UGC/体育地域策略显示方式</td><td>3</td><td>0</td><td>刘水旺、阮圆</td><td>block</td><td>0</td>
+		</tr>
+		<tr>
+			<td>4</td><td>twsee-219 玩转风行移动版相关修正</td><td>3</td><td>0</td><td>刘水旺、程品</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>5</td><td>twsee-218 去别人主页@用户发布的动态信息，需要展现在bms动态管理中</td><td>2</td><td>0</td><td>阮圆、朱文君</td><td>done</td><td>1</td>
+		</tr>
+		<tr>
+			<td>6</td><td>twsee-220 将社区头图更换进入bms管理</td><td>5</td><td>0</td><td>程品、郑晓春</td><td>done</td><td>1</td>
+		</tr>
+		<tr>
+			<td>7</td><td>twsee-221 更换头像/头图时保留用户当前图片</td><td>5</td><td>0</td><td>朱文君、阮圆</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>8</td><td>twsee-227 网站订阅应用接入-用户订阅媒体</td><td>3</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>9</td><td>twsee-226 网站订阅应用接入-取消订阅</td><td>3</td><td>0</td><td>何锵锵、程品</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>10</td><td>twsee-225 网站订阅应用接入-获取用户订阅列表</td><td>4</td><td>0</td><td>何锵锵、阮圆</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>11</td><td>twsee-224 网站订阅应用接入-用户是否订阅、用户订阅数</td><td>3</td><td>0</td><td>何锵锵、阮圆</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>12</td><td>twsee-228 点评相关api性能优化调研</td><td>3</td><td>0</td><td>朱文君</td><td>done</td><td>0</td>
+		</tr>
+		<tr>
+			<td>总数</td><td>story：12</td><td>点数：44</td><td></td><td></td><td>未完成story：2</td><td>bug总数：2</td>
+		</tr>
+	</tbody>
+</table>
 
 h2. 本迭代总结
 
