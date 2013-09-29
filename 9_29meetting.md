@@ -1,11 +1,11 @@
 回顾会
 
-h1. Sprint 923~929回顾会
+# Sprint 923~929回顾会
 
 参与者：何锵锵、朱文君、郑晓春、程品、阮圆、曾广剑、刘水旺
 会议记录：阮圆
 
-h2. 上个迭代问题回顾
+## 上个迭代问题回顾
 
 * 有些业务的逻辑要到测试的时候才知道是有问题【在story有依赖关系的时候，没有一个全局的考虑】---没遇到
 * 数据库的脏数据，影响测试 ---遇到了,并解决
@@ -15,12 +15,12 @@ h2. 上个迭代问题回顾
 * 迭代story TDR的上传不及时---已解决
 * 迭代story上线记录不及时--- 已解决
 
-h2. 本迭代燃尽图
+## 本迭代燃尽图
 
 ![](images/borndown.png?raw=true)
 
 
-h2. 本迭代story概括
+## 本迭代story概括
 
 <table class="table table-condensed table-bordered">
 	<tbody>
@@ -76,10 +76,10 @@ h2. 本迭代story概括
 	</tbody>
 </table>
 
-h2. 本迭代总结
+## 本迭代总结
 
 
-h3. 需保持
+### 需保持
 
 * story完成顺利
 * bug比较少
@@ -87,7 +87,7 @@ h3. 需保持
 
 
 
-h3. 待改进
+### 待改进
 
 * 迭代内story之间有依赖，影响测试进度 +1
 * 复杂的不熟悉的故事，需要调研 +2
@@ -95,7 +95,7 @@ h3. 待改进
 * TDR不细
 * 工作量没有体现
 
-h3. 问题解决
+### 问题解决
 
 * 迭代内story之间有依赖，影响测试进度 +1
 ** 解除依赖以后，才安排进迭代
@@ -119,12 +119,18 @@ h3. 问题解决
 * 工作量没有体现
 ** 添加常规story
 
-h2. bug分析
+### bug分析
 
-|开发人员|story总数|TDR内bug|TDR外bug|bug总数|公网bug|
-|何锵锵|6|0|0|0|0|
-|朱文君|3|0|1|0|0|
-|郑晓春|1|0|1|0|0|
-|刘水旺|2|0|0|0|0|
+<table class="table table-condensed table-bordered" >
+	<tbody>
+		<tr><th>开发人员</th><td>story总数</th><th>TDR内bug</th><th>TDR外bug</th><th>bug总数</th><th>公网bug</th></tr>
+		<tr><td>何锵锵</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>朱文君</td><td>3</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>
+		<tr><td>郑晓春</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td></tr>
+		<tr><td>刘水旺</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+	</tbody>
+</table>
 
-h2. 下个迭代会议主持：阮圆
+
+
+### 下个迭代会议主持：阮圆
