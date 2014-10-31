@@ -115,11 +115,15 @@ $ cd /usr;ls;cd -
 
 8.创建自己的命令：
 
-a.先用type看一下准备创建的命令名是否已经被使用
-b.使用$alias name='cd /usr;ls;cd -'创建自己的以name命名的命令
+>a.先用type看一下准备创建的命令名是否已经被使用
+
+>b.使用$alias name='cd /usr;ls;cd -'创建自己的以name命名的命令
 [alias 命令的结构:alias name='string',在命令”alias”之后，输入“name”，紧接着（没有空格）是一个等号，等号之后是 一串用引号引起的字符串，字符串的内容要赋值给 name]
-c.删除别名，使用 unalias 命令 [$unalias name]
-d.要查看所有定义在系统环境中的别名，使用不带参数的 alias 命令
+
+>c.删除别名，使用 unalias 命令 [$unalias name]
+
+>d.要查看所有定义在系统环境中的别名，使用不带参数的 alias 命令
+
 ``` shell
 $ alias
 ```
