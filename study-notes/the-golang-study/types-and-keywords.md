@@ -1,6 +1,6 @@
 # golang笔记 类型和关键字
 
----
+
 **类型**
 
 一.golang的内置简单类型：
@@ -43,8 +43,10 @@ string (**以""双引号包裹的字符序列，''单引号表示字符，不表
 4.rune (int32的别名，用UTF-8编码。在遍历字符串中的字符时，需要用到rune,用以获取实际的字符)
 
 5.复数类型 (golang原生支持复数，形式：re+im *i* ,re表示实部，im表示虚部)
-    complex64  32位re,32位im
-    complex128  64位re,64位im 
+
+>  complex64  32位re,32位im
+
+>  complex128  64位re,64位im 
     
 6.error类型 默认值为nil
 
