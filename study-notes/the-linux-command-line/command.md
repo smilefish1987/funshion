@@ -1,4 +1,4 @@
-### the linux command line 命令
+# the linux command line 命令
 
 1.到底什么是linux命令？命令可以是下面四种形式之一：
 >a.是一个可执行程序，就像我们所看到的位于目录/usr/bin 中的文件一样
