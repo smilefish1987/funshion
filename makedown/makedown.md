@@ -10,7 +10,7 @@ Markdown强调可读性高于一切。一份Markdown格式的文档应该能直�
 
 <table>
 	<tr>
-		<td> smilefish   *强调* </td>
+		<td> smilefish   * 强调 * </td>
 	</tr>
 </table>
 
