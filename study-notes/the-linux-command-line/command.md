@@ -1,13 +1,18 @@
 ### the linux command line 命令
 
 1.到底什么是linux命令？命令可以是下面四种形式之一：
-a.是一个可执行程序，就像我们所看到的位于目录/usr/bin 中的文件一样
-b.是一个内建于 shell 自身的命令。bash 支持若干命令，内部叫做 shell 内部命令 (builtins)
-c.是一个 shell 函数。这些是小规模的 shell 脚本，它们混合到环境变量中
-d.是一个命令别名
+>a.是一个可执行程序，就像我们所看到的位于目录/usr/bin 中的文件一样
+
+>b.是一个内建于 shell 自身的命令。bash 支持若干命令，内部叫做 shell 内部命令 (builtins)
+
+>c.是一个 shell 函数。这些是小规模的 shell 脚本，它们混合到环境变量中
+
+>d.是一个命令别名
 
 2.识别命令:
-a.type--显式命令的类型：  
+
+a.type--显式命令的类型： 
+ 
 ``` shell
 type command
 ```
