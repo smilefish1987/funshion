@@ -1,3 +1,5 @@
+### the linux command line 初见
+
 1.cd命令快捷键:
 
 | 命令   | 作 用   | 
