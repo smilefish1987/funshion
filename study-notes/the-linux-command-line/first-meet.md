@@ -1,4 +1,4 @@
-### the linux command line 初见
+# the linux command line 初见
 
 1.cd命令快捷键:
 
