@@ -90,6 +90,22 @@ ALTER TABLE table_name ENGINE [=] engine_name;
 
 >6. InnoDB表的行锁也不是绝对的，假如在执行一个SQL语句时MySQL不能确定要扫描的范围，InnoDB表同样会锁全表，例如update table set num=1 where name like “%aaa%”
 
+18.查看mysql服务器支持那些引擎：
+``` sql
+ $mysql> show engines;
+```
+
+下面是我5.5的mysql服务器的输出结果：
+
+|Engine|Support|Comment	|Transactions|	XA |Savepoints|
+|:-------|:-----:|:-----:|:-----:|:-----:|:-----:|
+|MyISAM|YES|MyISAM|storage|engine|NO|NO|NO|
+|InnoDB|DEFAULT|Percona-XtraDB, Supports transactions, row-level locking, and foreign keys|YES|YES|YES|
+|MRG_MyISAM|YES|Collection of identical MyISAM tables|NO|NO|NO|
+|MEMORY|YES|Hash based, stored in memory, useful for temporary tables|NO|NO|NO|
+|CSV|YES|CSV storage engine|NO|NO|NO|
+|PERFORMANCE_SCHEMA|YES|Performance Schema|NO|NO|NO|
+|Aria|YES|Crash-safe tables with MyISAM heritage|NO|NO|NO|
 
 
 
